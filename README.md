@@ -6,6 +6,10 @@ A benchmarking framework for evaluating operating system policies.
 This project analyzes combinations of **CPU scheduling**, **disk scheduling**, and **page replacement algorithms** to determine the most efficient policy for a given workload. It allows users to simulate different workload types, generate realistic system parameters, and identify the best-performing policy using normalized performance metrics.
 
 ---
+## ⚖️ Licensing
+Developed as part of an academic project to explore operating system performance and design trade-offs. This project is open-source and available under the MIT License.
+
+---
 
 ## 🎯 Objectives
 * **Compare** multiple OS policy combinations systematically.
