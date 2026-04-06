@@ -1,3 +1,5 @@
+#Note 1: Install the ggplot2 package using install.packages("ggplot2")
+#Note 2: Check the working directory using getwd(). If the working directory is wrong, change the directory using the command setwd("your_directory")
 library(ggplot2)
 
 # Load data
